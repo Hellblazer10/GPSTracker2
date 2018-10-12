@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649802066553",
+    "firebase_url": "https://gpstrackercollege.firebaseio.com",
+    "project_id": "gpstrackercollege",
+    "storage_bucket": "gpstrackercollege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649802066553:android:56e6d1d69577707b",
+        "android_client_info": {
+          "package_name": "viet.umesh.gpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649802066553-hucl3ag5rts0a4bmcprdugdcdddrgkca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "viet.umesh.gpstracker",
+            "certificate_hash": "ae9a18b19bf2c74e31f80b9971d7f7f1680371b3"
+          }
+        },
+        {
+          "client_id": "649802066553-mf389nscdu6q6nrtt41lj7kimg2bhoho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjk5IGkVa_VBKkXSRFWdDp7fIXmcMSt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649802066553-mf389nscdu6q6nrtt41lj7kimg2bhoho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
